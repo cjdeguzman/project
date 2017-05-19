@@ -1,5 +1,9 @@
 hello world
 hello again
+<<<<<<< HEAD
 s.coups
 mingyu
 vernon
+=======
+s.coups
+>>>>>>> 05c854a... 3rd commit
